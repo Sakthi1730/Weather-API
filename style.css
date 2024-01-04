@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+ }
+.image{
+    width: 290px;
+    height: 200px;
+    
+}
+.card-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.card-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(3, 212, 220);
+  
+}
+
+#button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
